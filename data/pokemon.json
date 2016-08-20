@@ -3099,6 +3099,7 @@
     ],
     "Fast Attack(s)": [
       "Mud Shot",
+      "Mud Slap",
       "Rock Throw"
     ],
     "Weight": "105.0 kg",
@@ -3540,6 +3541,7 @@
     ],
     "Fast Attack(s)": [
       "Ice Shard",
+      "Lick",
       "Water Gun"
     ],
     "Weight": "90.0 kg",
@@ -3618,6 +3620,7 @@
     ],
     "Fast Attack(s)": [
       "Acid",
+      "Poison Jab",
       "Mud Slap"
     ],
     "Weight": "30.0 kg",
@@ -4803,6 +4806,7 @@
     ],
     "Fast Attack(s)": [
       "Quick Attack",
+      "Tackle",
       "Water Gun"
     ],
     "Weight": "34.5 kg",
